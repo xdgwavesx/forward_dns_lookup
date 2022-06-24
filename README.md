@@ -2,4 +2,4 @@
 
 DNS Lookup Script
 
-<img src="img/forward_dns_lookup.png"
+<img src="img/forward_dns_lookup.png">
