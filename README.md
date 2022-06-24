@@ -1,5 +1,6 @@
 # Forward DNS Lookup
 
-DNS Lookup Script
+Find subdomains using forward dns lookup. 
+
 
 <img src="img/forward_dns_lookup.png">
